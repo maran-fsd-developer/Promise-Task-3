@@ -1,0 +1,48 @@
+
+body {
+    background-color: #a8d7ff;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+  }
+  .heading {
+    font-size: 2.5rem;
+    color: #4a90e2;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  .card {
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .sub-tit {
+    font-size: 1.25rem;
+    color: #ff8c2d;
+    font-weight: 600;
+  }
+  
+  .img-fluid {
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  #refreshButton {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #4a90e2;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left:600px;
+  }
+  
+  #refreshButton:hover {
+    background-color: #064d52;
+  };
